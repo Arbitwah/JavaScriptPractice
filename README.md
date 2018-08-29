@@ -1,1 +1,2 @@
 # JavaScriptPractice
+## Gregory Pugh
